@@ -1,0 +1,1 @@
+Intent隐式启动方法，用action，category等方法编程启动另一个活动。
